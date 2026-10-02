@@ -38,14 +38,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# 사내 보안 및 로컬 테스트 자료 제외 (NFC & macOS NFD 모두 대응)
+# 받은자료 폴더만 제외 (NFC & macOS NFD 모두 대응)
 받은자료/
 받은자료/
-*.csv
-*.numbers
-*.xlsx
-*.xls
-경비규정_발췌.txt
-경비규정_발췌.txt
-팀장요청_카톡.txt
-팀장요청_카톡.txt
